@@ -1,85 +1,137 @@
-<div align="center">
+# Utkarsh Singh
 
-# Arsenic
-
-### Software Engineer
-
-Building scalable backend systems and modern web applications.
-
-</div>
+Software Engineer specializing in backend architecture, AI integrations, and scalable cloud systems.  
+I focus on building reliable, production-grade platforms that combine modern infrastructure, real-time systems, and intelligent automation.
 
 ---
 
-## About
+## Core Expertise
 
-I am a software engineer focused on building reliable backend systems and modern full-stack applications. My work centers around designing scalable architectures, integrating cloud infrastructure, and creating efficient APIs that power responsive user experiences.
-
-I specialize in backend-driven development with strong full-stack capabilities, working with modern JavaScript frameworks, cloud platforms, and communication infrastructure.
-
----
-
-## Core Skills
-
-- Backend architecture and API design  
-- Microservices architecture  
-- Cloud infrastructure integration  
-- Database schema design and data modeling  
-- Real-time communication systems  
-- Full-stack web application development  
-- Performance optimization and debugging  
+• Backend Architecture & API Design  
+• Serverless Systems & Cloud Infrastructure  
+• AI Integration & Automation Pipelines  
+• Distributed Systems & Scalable Platforms  
+• Real-time Applications & Event-Driven Systems  
+• Authentication, Security & Identity Systems  
 
 ---
 
-## Technology Stack
+## Backend Development
 
-### Languages
-- JavaScript
+Languages  
 - TypeScript
-
-### Backend
+- JavaScript
 - Node.js
-- REST API Development
-- Microservices Architecture
-- Authentication Systems
-- Server Architecture Design
+- Python
+- C#
 
-### Frontend
-- React
-- Next.js
-- Modern UI Architecture
-- Responsive Web Development
+Frameworks & Runtime Environments  
+- Node.js
+- Express
+- Firebase Functions
+- Supabase Edge Functions
+- Serverless Cloud Functions
+- .NET / C# services
 
-### Cloud & Infrastructure
-- Supabase
+---
+
+## Cloud & Infrastructure
+
+- Google Cloud Platform
 - Firebase
-- Cloudflare
-- Cloud Storage Systems
-
-### Communication Systems
-- Twilio API Integration
-- SMS and Voice Infrastructure
-
-### Tools & Development
-- Git
-- GitHub
-- npm
-- Dependency Management
-- Version Control Workflows
+- Supabase
+- Cloud Run
+- Serverless deployments
+- Containerized services
+- Secure environment & secret management
 
 ---
 
-## Engineering Focus
+## Databases & Data Systems
 
-- Designing scalable backend services  
-- Building efficient full-stack web applications  
-- Integrating communication platforms and APIs  
-- Developing reliable cloud-connected systems  
-- Writing clean, maintainable, production-ready code  
+- PostgreSQL
+- Firestore
+- Real-time databases
+- Transactional data models
+- Query optimization
+- Row Level Security (RLS)
 
 ---
 
-<div align="center">
+## AI & Intelligent Systems
 
-**Backend Engineering • Full-Stack Development • Cloud Infrastructure**
+- LLM API integrations
+- AI image & video generation pipelines
+- Prompt orchestration systems
+- AI workflow automation
+- Model integration and scaling
 
-</div>
+---
+
+## Realtime Systems
+
+- WebSockets
+- Event-driven architectures
+- Streaming data systems
+- Live collaboration infrastructure
+
+---
+
+## Payments & Billing Systems
+
+- Stripe integrations
+- Usage-based billing systems
+- Token & credit architectures
+- Payment webhooks and automation
+
+---
+
+## Communication & API Systems
+
+- Twilio integrations
+- SMS systems
+- Voice API infrastructure
+- Notification pipelines
+
+---
+
+## Security & Authentication
+
+- OAuth systems
+- Google authentication
+- JWT authentication
+- Role-based access control
+- Secure API design
+
+---
+
+## Frontend Technologies
+
+- Next.js
+- React
+- TypeScript
+- TailwindCSS
+
+---
+
+## Engineering Philosophy
+
+I build systems that are:
+
+- Scalable
+- Reliable
+- Secure
+- Maintainable
+- Performance-focused
+
+My approach prioritizes clean architecture, clear system boundaries, and long-term maintainability.
+
+---
+
+## Focus Areas
+
+Backend Engineering  
+AI Infrastructure  
+Real-time Systems  
+Cloud Platforms  
+Distributed Applications
