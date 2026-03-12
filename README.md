@@ -4,7 +4,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=utkarsh~" alt="Name Typing SVG" />
+<h1 style="font-size:42px; font-weight:700; color:white; font-family:Outfit;">
+utkarsh~
+</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend+Architect;AI+Systems+Specialist;Cloud+Infrastructure;Distributed+Systems;Real-time+Platforms" alt="Role Typing SVG" />
 
