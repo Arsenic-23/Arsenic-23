@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Utkarsh Singh
+# Utkarsh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=E2E8F0&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend+Architect;AI+Systems+Specialist;Cloud+Infrastructure;Distributed+Systems;Real-time+Platforms" alt="Typing SVG" />
 
