@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner_mini.png" width="100%" alt="Utkarsh Singh" />
+  <img src="assets/banner.png" width="100%" alt="Utkarsh Singh" />
 </p>
 
 <div align="center">
 
-# Utkarsh
+# Utkarsh Singh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=E2E8F0&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Backend+Architect;AI+Systems+Specialist" alt="Typing SVG" />
 
