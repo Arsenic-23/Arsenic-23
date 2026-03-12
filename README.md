@@ -12,7 +12,7 @@
 
 ### Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,nodejs,react,nextjs,express,fastify,supabase,firebase,gcp,aws,postgres,mongodb,redis,docker,github,git,linux,svg,test,vscode&theme=dark&perline=8" alt="Skills Matrix" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,nodejs,react,nextjs,express,supabase,firebase,gcp,aws,postgres,mongodb,redis,docker,github,git,linux,svg,vscode&theme=dark&perline=8" alt="Skills Matrix" />
 </p>
 
 ---
