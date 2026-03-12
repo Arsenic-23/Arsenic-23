@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=UTKARSH+SINGH" alt="Name Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=utkarsh" alt="Name Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend+Architect;AI+Systems+Specialist;Cloud+Infrastructure;Distributed+Systems;Real-time+Platforms" alt="Role Typing SVG" />
 
@@ -21,6 +21,6 @@
 
 <br />
 
-<img src="assets/footer_full.png" width="100%" alt="Footer Graphic" />
+<img src="assets/footer.png" width="100%" alt="Footer Graphic" />
 
 </div>
